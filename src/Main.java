@@ -16,6 +16,13 @@ public class Main {
         System.out.println("El nombre de la persona es "+perso3.getNombre());
         System.out.println(perso2.toString());
 
+        System.out.println("ses");
+        System.out.println("ses");
+        System.out.println("ses");
+        
+
+
+
 
 
     }
